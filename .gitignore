@@ -1,3 +1,9 @@
 # dependencies
 node_modules
 .env
+
+# database user and passw it set to .env file.
+# user:geniusUser
+# pass:dZuMeN2QIm8um3K5
+
+#secrite token key = 'f90d2f7a427f0ebd3849aa49b3069e8743e102abc3759da4e4e3023e62cf9c6cdd90bebd8e89a6bfa8e06185d6aaccfc646147948cabb9537a2d406994e4070a'
